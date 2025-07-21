@@ -83,15 +83,6 @@ else:
 ```
 
 ## 📊 Data Analysis and Visualisation
-## 🖼️ Output Example: Histogram Visualisation
-
-The following plot is generated using Matplotlib and displays the distribution of 1,200 randomly generated values.
-
-This histogram helps visualise the frequency of values within different ranges (bins), and provides a visual summary of the dataset's distribution:
-
-![Histogram Output](screenshot.png)
-
-
 
 ```python
 # Example of basic data analysis and visualisation with matplotlib
@@ -116,6 +107,13 @@ plt.ylabel("Frequency")
 plt.title("Histogram of Random Data")
 plt.show()
 ```
+## 🖼️ Output Example: Histogram Visualisation
+
+The following plot is generated using Matplotlib and displays the distribution of 1,200 randomly generated values.
+
+This histogram helps visualise the frequency of values within different ranges (bins), and provides a visual summary of the dataset's distribution:
+
+![Histogram Output](Matplotlib_example_Pythonday1.png)
 
 
 ## 📁 Files in This Project
