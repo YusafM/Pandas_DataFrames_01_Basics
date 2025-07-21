@@ -20,7 +20,10 @@ Here’s a breakdown of what I personally learned through this project:
   - Finding the length of strings with `len()`
 - ✅ **Using `input()`** to take user input and convert it with `int()` or `str()`
 - ✅ **Using NumPy** to generate random data and perform statistical calculations like mean and standard deviation
-- ✅ **Using Matplotlib** to create a histogram and visualize data distributions
+- ✅ **Using Matplotlib** to:
+  - Create a histogram to visualize data distribution with `plt.hist()`
+  - Label the axes and title of the chart using `plt.xlabel()`, `plt.ylabel()`, and `plt.title()`
+  - Display the chart using `plt.show()`
 
 
 ## 📥 Where to Find the Notebook
