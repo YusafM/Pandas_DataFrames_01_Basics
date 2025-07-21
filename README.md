@@ -3,7 +3,6 @@
 This notebook represents **Day 1 of my journey into Python programming**. It's my first hands-on exploration of the language, and I used Google Colab to follow along, test ideas, and understand foundational concepts in a practical way.
 
 ## 📘 What I Learned
-## 📘 What I Learned
 
 Here’s a breakdown of what I personally learned through this project:
 
